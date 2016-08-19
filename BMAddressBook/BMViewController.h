@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  BMViewController.h
 //  BMAddressBook
 //
 //  Created by elvin on 16/8/16.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface BMViewController : UIViewController
 
 @end
-
